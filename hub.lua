@@ -169,7 +169,7 @@ end
 
 -- ========== MODERN GUI WITH RAINBOW OUTLINE ==========
 local sg = Instance.new("ScreenGui")
-sg.Name = "AutoDuel"
+sg.Name = "saint hub"
 sg.Parent = player:WaitForChild("PlayerGui")
 sg.ResetOnSpawn = false
 sg.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
